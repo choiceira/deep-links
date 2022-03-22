@@ -11,9 +11,7 @@ Choice currently does not support `development` 🚧
 * [`staging_url/`](https://retail-staging.kingdomtrust.com/)
 * [`staging_url/transfers`](https://retail-staging.kingdomtrust.com/transfers)
 * [`staging_url/assets`](https://retail-staging.kingdomtrust.com/assets)
-<!-- * Transfers by id // TODO -->
 * [`staging_url/orders`](https://retail-staging.kingdomtrust.com/orders)
-<!-- * Orders by id // TODO -->
 * [`staging_url/rewards`](https://retail-staging.kingdomtrust.com/rewards)
 
 <h4>Unsupported</h4>
