@@ -13,6 +13,7 @@ Choice currently does not support `development` 🚧
 * [`staging_url/assets`](https://retail-staging.kingdomtrust.com/assets)
 * [`staging_url/orders`](https://retail-staging.kingdomtrust.com/orders)
 * [`staging_url/rewards`](https://retail-staging.kingdomtrust.com/rewards)
+* [`staging_url/referral`](https://retail-staging.kingdomtrust.com/referral?=example)
 
 <h4>Unsupported</h4>
 
