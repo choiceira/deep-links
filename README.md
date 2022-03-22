@@ -9,6 +9,10 @@ Choice currently does not support `development` 🚧
 <h4>Supported</h4>
 
 1. [`https://retail-staging.kingdomtrust.com/`](https://retail-staging.kingdomtrust.com/)
+2. [`https://retail-staging.kingdomtrust.com/transfers`](https://retail-staging.kingdomtrust.com/transfers)
+3. [`https://retail-staging.kingdomtrust.com/transfers/asdf`](https://retail-staging.kingdomtrust.com/transfers/asdf)
+4. [`https://retail-staging.kingdomtrust.com/orders`](https://retail-staging.kingdomtrust.com/orders)
+5. [`https://retail-staging.kingdomtrust.com/orders/asdf`](https://retail-staging.kingdomtrust.com/orders/asdf)
 
 <h4>Unsupported</h4>
 
