@@ -4,7 +4,7 @@
 
 Choice currently does not support `development` 🚧
 
-<h3>Staging (Supported)</h3>
+<h3>Staging</h3>
 
 <h4>Supported</h4>
 
@@ -23,8 +23,9 @@ Choice currently does not support `development` 🚧
 
 <h4>Supported</h4>
 
-1. [`https://retail-staging.kingdomtrust.com/`](https://retail-staging.kingdomtrust.com/)
+<!-- 1. [`https://retail-staging.kingdomtrust.com/`](https://retail-staging.kingdomtrust.com/) -->
 
 <h4>Unsupported</h4>
 
-1. [`https://retail-staging.kingdomtrust.com/Account`](https://retail-staging.kingdomtrust.com/Account)
+<!-- 1. [`https://retail-staging.kingdomtrust.com/Account`](https://retail-staging.kingdomtrust.com/Account)
+ -->
