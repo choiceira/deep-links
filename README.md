@@ -8,12 +8,13 @@ Choice currently does not support `development` 🚧
 
 <h4>Supported</h4>
 
-1. [`staging_url/`](https://retail-staging.kingdomtrust.com/)
-2. [`staging_url/transfers`](https://retail-staging.kingdomtrust.com/transfers)
-3. Transfers by id // TODO
-4. [`staging_url/orders`](https://retail-staging.kingdomtrust.com/orders)
-5. Orders by id // TODO
-6. [`staging_url/rewards`](https://retail-staging.kingdomtrust.com/rewards)
+* [`staging_url/`](https://retail-staging.kingdomtrust.com/)
+* [`staging_url/transfers`](https://retail-staging.kingdomtrust.com/transfers)
+* [`staging_url/assets`](https://retail-staging.kingdomtrust.com/assets)
+<!-- * Transfers by id // TODO -->
+* [`staging_url/orders`](https://retail-staging.kingdomtrust.com/orders)
+<!-- * Orders by id // TODO -->
+* [`staging_url/rewards`](https://retail-staging.kingdomtrust.com/rewards)
 
 <h4>Unsupported</h4>
 
