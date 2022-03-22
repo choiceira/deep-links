@@ -17,7 +17,7 @@ Choice currently does not support `development` 🚧
 
 <h4>Unsupported</h4>
 
-1. [`staging_url/Account`](https://retail-staging.kingdomtrust.com/Account)
+1. [`staging_url/Account`](https://retail-staging.kingdomtrust.com//Account/*)
 
 <h3>Production</h3>
 
