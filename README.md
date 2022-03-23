@@ -14,13 +14,17 @@ Choice currently does not support `development` 🚧
 * [`staging_url/assets`](https://retail-staging.kingdomtrust.com/assets)
 * [`staging_url/assets/:id`](https://retail-staging.kingdomtrust.com/assets/bitcoin-crypto)
 * [`staging_url/orders`](https://retail-staging.kingdomtrust.com/orders)
-* [`staging_url/orders/:id`](...) // Coming Soon
+* [`staging_url/orders/:id`](https://retail-staging.kingdomtrust.com/orders/1234)
 * [`staging_url/rewards`](https://retail-staging.kingdomtrust.com/rewards)
 * [`staging_url/referral`](https://retail-staging.kingdomtrust.com/referral?=example)
 
+<h4>Invalid</h4>
+
+* [`staging_url/orders/:invalid_id`](https://retail-staging.kingdomtrust.com/orders/asdf)
+
 <h4>Unsupported</h4>
 
-1. [`staging_url/Account`](https://retail-staging.kingdomtrust.com//Account/*)
+* [`staging_url/Account`](https://retail-staging.kingdomtrust.com//Account/*)
 
 <h3>Production</h3>
 
