@@ -10,11 +10,11 @@ Choice currently does not support `development` 🚧
 
 * [`staging_url/`](https://retail-staging.kingdomtrust.com/)
 * [`staging_url/transfers`](https://retail-staging.kingdomtrust.com/transfers)
-* [`staging_url/transfers/:id`](https://retail-staging.kingdomtrust.com/transfers/1234)
+* [`staging_url/transfers/:id`](https://retail-staging.kingdomtrust.com/transfers/437)
 * [`staging_url/assets`](https://retail-staging.kingdomtrust.com/assets)
 * [`staging_url/assets/:id`](https://retail-staging.kingdomtrust.com/assets/btc-crypto)
 * [`staging_url/orders`](https://retail-staging.kingdomtrust.com/orders)
-* [`staging_url/orders/:id`](https://retail-staging.kingdomtrust.com/orders/1234)
+* [`staging_url/orders/:id`](https://retail-staging.kingdomtrust.com/orders/36500)
 * [`staging_url/rewards`](https://retail-staging.kingdomtrust.com/rewards)
 * [`staging_url/referral`](https://retail-staging.kingdomtrust.com/referral?=example)
 
