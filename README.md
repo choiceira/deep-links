@@ -8,33 +8,44 @@ Choice currently does not support `development` 🚧
 
 <h4>Supported</h4>
 
-* [`staging_url/`](https://retail-staging.kingdomtrust.com/)
-* [`staging_url/transfers`](https://retail-staging.kingdomtrust.com/transfers)
-* [`staging_url/transfers/:id`](https://retail-staging.kingdomtrust.com/transfers/437)
-* [`staging_url/assets`](https://retail-staging.kingdomtrust.com/assets)
-* [`staging_url/assets/:id`](https://retail-staging.kingdomtrust.com/assets/btc-crypto)
-* [`staging_url/orders`](https://retail-staging.kingdomtrust.com/orders)
-* [`staging_url/orders/:id`](https://retail-staging.kingdomtrust.com/orders/36500)
-* [`staging_url/rewards`](https://retail-staging.kingdomtrust.com/rewards)
-* [`staging_url/referral`](https://retail-staging.kingdomtrust.com/referral?=example)
+* [`staging/`](https://retail-staging.kingdomtrust.com/)
+* [`staging/transfers`](https://retail-staging.kingdomtrust.com/transfers)
+* [`staging/transfers/:id`](https://retail-staging.kingdomtrust.com/transfers/437)
+* [`staging/assets`](https://retail-staging.kingdomtrust.com/assets)
+* [`staging/assets/:id`](https://retail-staging.kingdomtrust.com/assets/btc-crypto)
+* [`staging/orders`](https://retail-staging.kingdomtrust.com/orders)
+* [`staging/orders/:id`](https://retail-staging.kingdomtrust.com/orders/36500)
+* [`staging/rewards`](https://retail-staging.kingdomtrust.com/rewards)
+* [`staging/referral`](https://retail-staging.kingdomtrust.com/referral?=example)
 
 <h4>Invalid</h4>
 
-* [`staging_url/transfers/:invalid_id`](https://retail-staging.kingdomtrust.com/transfers/asdf)
-* [`staging_url/assets/:invalid_id`](https://retail-staging.kingdomtrust.com/assets/missing)
-* [`staging_url/orders/:invalid_id`](https://retail-staging.kingdomtrust.com/orders/asdf)
+* [`staging/transfers/:invalid_id`](https://retail-staging.kingdomtrust.com/transfers/asdf)
+* [`staging/assets/:invalid_id`](https://retail-staging.kingdomtrust.com/assets/missing)
+* [`staging/orders/:invalid_id`](https://retail-staging.kingdomtrust.com/orders/asdf)
 
 <h4>Unsupported</h4>
 
-* [`staging_url/Account`](https://retail-staging.kingdomtrust.com//Account/*)
+* [`staging/Account`](https://retail-staging.kingdomtrust.com/Account/*)
 
 <h3>Production</h3>
 
-<h4>Supported</h4>
+* [`production/`](https://choice-app.kingdomtrust.com/)
+* [`production/transfers`](https://choice-app.kingdomtrust.com/transfers)
+* [`production/transfers/:id`](https://choice-app.kingdomtrust.com/transfers/437)
+* [`production/assets`](https://choice-app.kingdomtrust.com/assets)
+* [`production/assets/:id`](https://choice-app.kingdomtrust.com/assets/btc-crypto)
+* [`production/orders`](https://choice-app.kingdomtrust.com/orders)
+* [`production/orders/:id`](https://choice-app.kingdomtrust.com/orders/36500)
+* [`production/rewards`](https://choice-app.kingdomtrust.com/rewards)
+* [`production/referral`](https://choice-app.kingdomtrust.com/referral?=example)
 
-<!-- 1. [`https://retail-staging.kingdomtrust.com/`](https://retail-staging.kingdomtrust.com/) -->
+<h4>Invalid</h4>
+
+* [`production/transfers/:invalid_id`](https://choice-app.kingdomtrust.com/transfers/asdf)
+* [`production/assets/:invalid_id`](https://choice-app.kingdomtrust.com/assets/missing)
+* [`production/orders/:invalid_id`](https://choice-app.kingdomtrust.com/orders/asdf)
 
 <h4>Unsupported</h4>
 
-<!-- 1. [`https://retail-staging.kingdomtrust.com/Account`](https://retail-staging.kingdomtrust.com/Account)
- -->
+* [`production/Account`](https://choice-app.kingdomtrust.com/Account/*)
