@@ -10,7 +10,7 @@ Choice currently does not support `development` 🚧
 
 * [`staging_url/`](https://retail-staging.kingdomtrust.com/)
 * [`staging_url/transfers`](https://retail-staging.kingdomtrust.com/transfers)
-* [`staging_url/transfers/:id`](...) // Coming Soon
+* [`staging_url/transfers/:id`](https://retail-staging.kingdomtrust.com/transfers/1234)
 * [`staging_url/assets`](https://retail-staging.kingdomtrust.com/assets)
 * [`staging_url/assets/:id`](https://retail-staging.kingdomtrust.com/assets/bitcoin-crypto)
 * [`staging_url/orders`](https://retail-staging.kingdomtrust.com/orders)
@@ -20,6 +20,7 @@ Choice currently does not support `development` 🚧
 
 <h4>Invalid</h4>
 
+* [`staging_url/transfers/:invalid_id`](https://retail-staging.kingdomtrust.com/transfers/asdf)
 * [`staging_url/orders/:invalid_id`](https://retail-staging.kingdomtrust.com/orders/asdf)
 
 <h4>Unsupported</h4>
