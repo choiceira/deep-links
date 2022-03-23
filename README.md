@@ -1,10 +1,10 @@
 # Supported Deeplinks
 
-<h3>Development</h3>
+<h2>Development</h2>
 
-Choice currently does not support `development` 🚧
+`Choice currently does not support development 🚧`
 
-<h3>Staging</h3>
+<h2>Staging</h2>
 
 <h4>Supported</h4>
 
@@ -28,7 +28,7 @@ Choice currently does not support `development` 🚧
 
 * [`staging/Account`](https://retail-staging.kingdomtrust.com/Account/*)
 
-<h3>Production</h3>
+<h2>Production</h2>
 
 * [`production/`](https://choice-app.kingdomtrust.com/)
 * [`production/transfers`](https://choice-app.kingdomtrust.com/transfers)
