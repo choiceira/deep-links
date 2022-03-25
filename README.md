@@ -28,6 +28,10 @@
 
 * [`staging/Account`](https://retail-staging.kingdomtrust.com/Account/*)
 
+<h4>Dynamic Link Example</h4>
+
+* [`staging_dynamic/referral`](https://choicestaging.page.link/buinj8m)
+
 <h2>Production</h2>
 
 * [`production/`](https://choice-app.kingdomtrust.com/)
