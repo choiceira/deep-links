@@ -30,7 +30,14 @@
 
 <h4>Dynamic Link Example</h4>
 
-* [`staging_dynamic/referral`](https://choicestaging.page.link/buinj8m)
+* [`staging_dynamic/referral_example`](https://choicestaging.page.link/buinj8m)
+* [`staging_dynamic/transfers`](https://choicestaging.page.link/nf9s)
+* [`staging_dynamic/transfer_id`](https://choicestaging.page.link/dopH)
+* [`staging_dynamic/assets`](https://choicestaging.page.link/ec8d)
+* [`staging_dynamic/asset_id`](https://choicestaging.page.link/ASyW)
+* [`staging_dynamic/orders`](https://choicestaging.page.link/XH3T)
+* [`staging_dynamic/orders_id`](https://choicestaging.page.link/UcVD)
+* [`staging_dynamic/rewards`](https://choicestaging.page.link/sqru)
 
 <h2>Production</h2>
 
