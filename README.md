@@ -28,7 +28,7 @@
 
 * [`staging/Account`](https://retail-staging.kingdomtrust.com/Account/*)
 
-<h4>Dynamic Link Example</h4>
+<h4>Dynamic Link Examples</h4>
 
 * [`staging_dynamic/referral_example`](https://choicestaging.page.link/buinj8m)
 * [`staging_dynamic/transfers`](https://choicestaging.page.link/nf9s)
